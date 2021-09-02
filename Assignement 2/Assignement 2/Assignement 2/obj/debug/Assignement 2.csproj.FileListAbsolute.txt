@@ -1,0 +1,37 @@
+C:\Users\jackw\source\repos\Assignement 2\Assignement 2\bin\Debug\Assignement 2.exe.config
+C:\Users\jackw\source\repos\Assignement 2\Assignement 2\bin\Debug\Assignement 2.exe
+C:\Users\jackw\source\repos\Assignement 2\Assignement 2\bin\Debug\Assignement 2.pdb
+C:\Users\jackw\source\repos\Assignement 2\Assignement 2\obj\Debug\Assignement 2.csprojAssemblyReference.cache
+C:\Users\jackw\source\repos\Assignement 2\Assignement 2\obj\Debug\Assignement_2.Form1.resources
+C:\Users\jackw\source\repos\Assignement 2\Assignement 2\obj\Debug\Assignement_2.Properties.Resources.resources
+C:\Users\jackw\source\repos\Assignement 2\Assignement 2\obj\Debug\Assignement 2.csproj.GenerateResource.cache
+C:\Users\jackw\source\repos\Assignement 2\Assignement 2\obj\Debug\Assignement 2.csproj.CoreCompileInputs.cache
+C:\Users\jackw\source\repos\Assignement 2\Assignement 2\obj\Debug\Assignement 2.exe
+C:\Users\jackw\source\repos\Assignement 2\Assignement 2\obj\Debug\Assignement 2.pdb
+C:\Users\jackw\Documents\UTS Year 2 Semester 2\Application Development with NET\Assignement 2\Assignement 2\Assignement 2\bin\Debug\Assignement 2.exe.config
+C:\Users\jackw\Documents\UTS Year 2 Semester 2\Application Development with NET\Assignement 2\Assignement 2\Assignement 2\bin\Debug\Assignement 2.exe
+C:\Users\jackw\Documents\UTS Year 2 Semester 2\Application Development with NET\Assignement 2\Assignement 2\Assignement 2\bin\Debug\Assignement 2.pdb
+C:\Users\jackw\Documents\UTS Year 2 Semester 2\Application Development with NET\Assignement 2\Assignement 2\Assignement 2\obj\Debug\Assignement 2.csprojAssemblyReference.cache
+C:\Users\jackw\Documents\UTS Year 2 Semester 2\Application Development with NET\Assignement 2\Assignement 2\Assignement 2\obj\Debug\Assignement_2.Form1.resources
+C:\Users\jackw\Documents\UTS Year 2 Semester 2\Application Development with NET\Assignement 2\Assignement 2\Assignement 2\obj\Debug\Assignement_2.Login.resources
+C:\Users\jackw\Documents\UTS Year 2 Semester 2\Application Development with NET\Assignement 2\Assignement 2\Assignement 2\obj\Debug\Assignement_2.Properties.Resources.resources
+C:\Users\jackw\Documents\UTS Year 2 Semester 2\Application Development with NET\Assignement 2\Assignement 2\Assignement 2\obj\Debug\Assignement 2.csproj.GenerateResource.cache
+C:\Users\jackw\Documents\UTS Year 2 Semester 2\Application Development with NET\Assignement 2\Assignement 2\Assignement 2\obj\Debug\Assignement 2.csproj.CoreCompileInputs.cache
+C:\Users\jackw\Documents\UTS Year 2 Semester 2\Application Development with NET\Assignement 2\Assignement 2\Assignement 2\obj\Debug\Assignement 2.exe
+C:\Users\jackw\Documents\UTS Year 2 Semester 2\Application Development with NET\Assignement 2\Assignement 2\Assignement 2\obj\Debug\Assignement 2.pdb
+C:\Users\jackw\Documents\UTS Year 2 Semester 2\Application Development with NET\Assignement 2\Assignement 2\Assignement 2\obj\Debug\Assignement_2.Register.resources
+C:\Users\jackw\Documents\UTS Year 2 Semester 2\Application Development with NET\Assignement 2\Assignement 2\Assignement 2\obj\Debug\Assignement_2.About.resources
+C:\Users\jackw\Documents\UTS Year 2 Semester 2\Application Development with NET\Assignement 2\Assignement 2\Assignement 2\bin\Debug\Assignement 2.exe.manifest
+C:\Users\jackw\Documents\UTS Year 2 Semester 2\Application Development with NET\Assignement 2\Assignement 2\Assignement 2\bin\Debug\Assignement 2.application
+C:\Users\jackw\Documents\UTS Year 2 Semester 2\Application Development with NET\Assignement 2\Assignement 2\Assignement 2\obj\Debug\Assignement 2.exe.manifest
+C:\Users\jackw\Documents\UTS Year 2 Semester 2\Application Development with NET\Assignement 2\Assignement 2\Assignement 2\obj\Debug\Assignement 2.application
+D:\UTS\UTS Year 2 Semester 2\Application Development with NET\Assignement 2\Assignement 2\Assignement 2\obj\Debug\Assignement 2.csprojAssemblyReference.cache
+D:\UTS\UTS Year 2 Semester 2\Application Development with NET\Assignement 2\Assignement 2\Assignement 2\obj\Debug\Assignement_2.About.resources
+D:\UTS\UTS Year 2 Semester 2\Application Development with NET\Assignement 2\Assignement 2\Assignement 2\obj\Debug\Assignement_2.Form1.resources
+D:\UTS\UTS Year 2 Semester 2\Application Development with NET\Assignement 2\Assignement 2\Assignement 2\obj\Debug\Assignement_2.Login.resources
+D:\UTS\UTS Year 2 Semester 2\Application Development with NET\Assignement 2\Assignement 2\Assignement 2\obj\Debug\Assignement_2.Properties.Resources.resources
+D:\UTS\UTS Year 2 Semester 2\Application Development with NET\Assignement 2\Assignement 2\Assignement 2\obj\Debug\Assignement_2.Register.resources
+D:\UTS\UTS Year 2 Semester 2\Application Development with NET\Assignement 2\Assignement 2\Assignement 2\obj\Debug\Assignement 2.csproj.GenerateResource.cache
+D:\UTS\UTS Year 2 Semester 2\Application Development with NET\Assignement 2\Assignement 2\Assignement 2\obj\Debug\Assignement 2.csproj.CoreCompileInputs.cache
+D:\UTS\UTS Year 2 Semester 2\Application Development with NET\Assignement 2\Assignement 2\Assignement 2\obj\Debug\Assignement 2.exe
+D:\UTS\UTS Year 2 Semester 2\Application Development with NET\Assignement 2\Assignement 2\Assignement 2\obj\Debug\Assignement 2.pdb
